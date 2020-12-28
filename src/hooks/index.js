@@ -1,0 +1,1 @@
+export { useGlobalText } from "./useGlobalText";
